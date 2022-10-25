@@ -34,4 +34,4 @@ print("makarena")
 
 `print("jestem osobno od tamtego kodu")`
 
-![Princey <3 ](temat4/)
+![Princey <3 ](temat4/83740096-8095-44cf-945b-b5563ba8a402.jpg)
