@@ -26,11 +26,11 @@ stop
 
 stop
 
-'''
+~~~
 x = 3
 print(x*x)
 print("makarena")
-'''
+~~~
 
-'print("jestem osobno od tamtego kodu")'
+~print("jestem osobno od tamtego kodu")~
 
